@@ -7,5 +7,6 @@
 
 ---
 
-crated: 2023/02/06
-last updated: 2023/02/06
+| crated | 2023/02/06 |
+| --- | --- |
+| last updated | 2023/02/06 |
